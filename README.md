@@ -181,15 +181,15 @@ python src/visualize_sentiment.py
 ## Sample Visualizations
 
 ### Sentiment Distribution
-![Sentiment Distribution](visualizations/sentiment_distribution.png)
+![Sentiment Distribution](data&visuals/sentiment_distribution.jpeg)
 
 ### Sentiment Trends Over Time
-![Sentiment Trends](visualizations/trendline_sentiment.png)
+![Sentiment Trends](data&visuals/trendline_sentiment.png)
 
 ### Word Clouds
 | Positive Sentiment | Negative Sentiment |
 |:------------------:|:------------------:|
-| ![Positive](visualizations/positive_wordcloud.png) | ![Negative](visualizations/negative_wordcloud.png) |
+| ![Positive](data&visuals/positive_wordcloud.png) | ![Negative](data&visuals/negative_wordcloud.png) |
 
 ## SQL Analytics
 
