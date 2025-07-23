@@ -1,0 +1,30 @@
+Nike Reddit Data Cleaning Summary
+========================================
+Original posts: 604
+Cleaned posts: 579
+Retained: 95.9%
+
+Columns:
+ - id
+ - title
+ - selftext
+ - author
+ - created_utc
+ - created_date
+ - score
+ - upvote_ratio
+ - num_comments
+ - subreddit
+ - url
+ - permalink
+ - search_keyword
+ - full_text
+ - title_cleaned
+ - selftext_cleaned
+ - full_text_cleaned
+ - text_length
+ - word_count
+ - engagement_score
+ - date_only
+ - hour
+ - day_of_week
