@@ -184,12 +184,12 @@ python src/visualize_sentiment.py
 ![Sentiment Distribution](BigDataNike/data&visuals/sentiment_distribution.jpeg)
 
 ### Sentiment Trends Over Time
-![Sentiment Trends](data&visuals/trendline_sentiment.png)
+![Sentiment Trends](BigDataNike/data&visuals/trendline_sentiment.jpeg)
 
 ### Word Clouds
 | Positive Sentiment | Negative Sentiment |
 |:------------------:|:------------------:|
-| ![Positive](data&visuals/positive_wordcloud.png) | ![Negative](data&visuals/negative_wordcloud.png) |
+| ![Positive](BigDataNike/data&visuals/positive_wordcloud.jpeg) | ![Negative](BigDataNike/data&visuals/negative_wordcloud.jpeg) |
 
 ## SQL Analytics
 
