@@ -181,7 +181,7 @@ python src/visualize_sentiment.py
 ## Sample Visualizations
 
 ### Sentiment Distribution
-![Sentiment Distribution](data&visuals/sentiment_distribution.jpeg)
+![Sentiment Distribution](BigDataNike/data&visuals/sentiment_distribution.jpeg)
 
 ### Sentiment Trends Over Time
 ![Sentiment Trends](data&visuals/trendline_sentiment.png)
