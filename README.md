@@ -51,6 +51,7 @@ nike-reddit-sentiment/
 ├── data/
 │   ├── nike_reddit_data.csv          # Raw collected data
 │   ├── nike_cleaned_data.csv         # Preprocessed data
+│   ├── nike_cleaned_data_summary.txt 
 │   └── sentiment_results.csv         # Sentiment analysis results
 │
 ├── src/
@@ -59,7 +60,7 @@ nike-reddit-sentiment/
 │   ├── sentiment_analysis.py         # VADER sentiment scoring
 │   └── visualize_sentiment.py        # Visualization generation
 │
-├── visualizations/
+├── visuals/
 │   ├── sentiment_distribution.png
 │   ├── trendline_sentiment.png
 │   ├── positive_wordcloud.png
@@ -69,7 +70,7 @@ nike-reddit-sentiment/
 ├── sql/
 │   └── analysis_queries.sql          # Business intelligence queries
 │
-├── docs/
+├── report/
 │   └── Social_Media_Sentiment_Analysis_Report.pdf
 │
 └── README.md
