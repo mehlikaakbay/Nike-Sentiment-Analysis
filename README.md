@@ -24,12 +24,13 @@ This project extracts and analyzes consumer sentiment from Reddit posts mentioni
 
 ## Key Findings
 
-From our analysis of **603 Reddit posts**:
-- **50%+ positive sentiment** indicating strong brand affinity
+From our analysis of [**603 Reddit posts**](./data/nike_cleaned_data.csv):
+- **50%+ positive sentiment**, indicating strong brand affinity
 - **Peak engagement** around product release dates (May 31, June 11)
-- **Common praise**: Product quality, comfort, design aesthetics
-- **Pain points**: Packaging issues, sizing accuracy, counterfeit concerns
-- **High-engagement days**: Fridays and Sundays optimal for marketing
+- **Common praise**: product quality, comfort, and design aesthetics
+- **Pain points**: packaging issues, sizing accuracy, and counterfeit concerns
+- **High-engagement days**: Fridays and Sundays — optimal for marketing efforts
+📄 [View Full Report (PDF)](./report/Social_Media_Sentiment_Analysis_Report.pdf)
 
 ## Technology Stack
 
@@ -182,15 +183,15 @@ python src/visualize_sentiment.py
 ## Sample Visualizations
 
 ### Sentiment Distribution
-![Sentiment Distribution](BigDataNike/data&visuals/sentiment_distribution.jpeg)
+![Sentiment Distribution](./visuals/sentiment_distribution.png)
 
 ### Sentiment Trends Over Time
-![Sentiment Trends](BigDataNike/data&visuals/trendline_sentiment.jpeg)
+![Sentiment Trends](./visuals/trendline_sentiment.png)
 
 ### Word Clouds
 | Positive Sentiment | Negative Sentiment |
 |:------------------:|:------------------:|
-| ![Positive](BigDataNike/data&visuals/positive_wordcloud.jpeg) | ![Negative](BigDataNike/data&visuals/negative_wordcloud.jpeg) |
+| ![Positive](./visuals/positive_wordcloud.png) | ![Negative](./visuals/negative_wordcloud.png) |
 
 ## SQL Analytics
 
@@ -242,6 +243,7 @@ LIMIT 10;
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+[![GitHub Profile](https://img.shields.io/badge/GitHub-mehlikaakbay-blue?logo=github)](https://github.com/mehlikaakbay)
 
 
 
@@ -251,7 +253,7 @@ LIMIT 10;
 ## Contact
 
 For questions about this project, please reach out via:
-mehlika.akbay@ue-germay.de 
+mehlika.akbay@ue-germany.de
 
 ## Acknowledgments
 
