@@ -30,7 +30,8 @@ From our analysis of [**603 Reddit posts**](./data/nike_cleaned_data.csv):
 - **Common praise**: product quality, comfort, and design aesthetics
 - **Pain points**: packaging issues, sizing accuracy, and counterfeit concerns
 - **High-engagement days**: Fridays and Sundays — optimal for marketing efforts
-📄 [View Full Report (PDF)](./report/Social_Media_Sentiment_Analysis_Report.pdf)
+
+📄 [View Full Report (PDF)](./report/Social Media Sentiment Analysis of Nike on Reddit.pdf)
 
 ## Technology Stack
 
@@ -243,6 +244,7 @@ LIMIT 10;
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
 [![GitHub Profile](https://img.shields.io/badge/GitHub-mehlikaakbay-blue?logo=github)](https://github.com/mehlikaakbay)
 
 
