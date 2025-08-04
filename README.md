@@ -31,7 +31,6 @@ From our analysis of [**603 Reddit posts**](./data/nike_cleaned_data.csv):
 - **Pain points**: packaging issues, sizing accuracy, and counterfeit concerns
 - **High-engagement days**: Fridays and Sundays — optimal for marketing efforts
 
-📄 [View Full Report (PDF)](./report/Social Media Sentiment Analysis of Nike on Reddit.pdf)
 
 ## Technology Stack
 
